@@ -9,8 +9,8 @@
 // @ts-ignore
 firebase.initializeApp({
   apiKey: "AIzaSyBcw8MAnIhk5KSlHWr_kCHPq7e5rMs6PQo",
-    authDomain: "alumnoseeg.firebaseapp.com",
-    projectId: "alumnoseeg",
+    authDomain: "alumnosEEFG.firebaseapp.com",
+    projectId: "alumnosEEG",
     storageBucket: "alumnoseeg.appspot.com",
     messagingSenderId: "290950001428",
     appId: "1:290950001428:web:afa6584e257d23e3604801",
