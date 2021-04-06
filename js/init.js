@@ -13,7 +13,8 @@ firebase.initializeApp({
     projectId: "alumnoseeg",
     storageBucket: "alumnoseeg.appspot.com",
     messagingSenderId: "290950001428",
-    appId: "1:290950001428:web:cadb1e50e441aa05604801",
-    measurementId: "G-1NQPFRMGHT"
+    appId: "1:290950001428:web:afa6584e257d23e3604801",
+    measurementId: "G-ZDBHTLMNHE"
+
    
 });
